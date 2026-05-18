@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-community
+langchain-mistralai
+mistralai
+beautifulsoup4
+requests
+playwright
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+tavily-python
+pydantic
